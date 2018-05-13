@@ -1,0 +1,53 @@
+header{
+	background-color: #E05155;
+	height: 20%;
+	width: 100%;
+}
+#name{
+	text-align: center;
+	color: white;
+	font-size: 2.5em;
+	margin-top: 1px;
+	padding-top: 25px;
+}
+body{
+	width: 100%;
+}
+#logo{
+	width: 200px;
+	margin-top: 15px;
+	float: left; 
+}
+ul{
+	background-color: #858585;
+	width: 98.7%;
+	margin-top: 1px;
+	float: left;
+	padding-left: 20px;
+}
+li{
+	font-size: 1.5em;
+	display: inline-block;
+	padding-right: 30px;
+	color: white;
+}
+p{
+	font-size: 1.5em;
+}
+.firsandsecund{
+	clear: left;
+	display: flex;
+	justify-content: space-around;
+}
+.therdandfourth{
+	display: flex;
+	justify-content: space-around;
+}
+footer{
+	width: 100%;
+	height: 20%;
+	text-align: center;
+	color: white;
+	background-color: #E05155;
+	padding-top: 7px;
+}
